@@ -47,19 +47,19 @@ The design uses the **TPS40200** as the PWM controller driving an external **N-c
 
 ## Schematic Preview
 
-![Schematic](docs/schematic.png)
+![Schematic](schematic.png)
 
 ---
 
 ## PCB Layout Preview
 
-![PCB Layout](docs/pcb_layout.png)
+![PCB Layout](pcb_layout.png)
 
 ---
 
 ## 3D Render
 
-![3D Render](docs/3d_render.png)
+![3D Render](3d_render.png)
 
 ---
 
@@ -86,22 +86,6 @@ Two capacitors in parallel (100µF + 47µF) reduce effective ESR, improving tran
 
 **Current sensing:**
 A 17mΩ shunt on the high-side provides accurate current sensing to the ISNS pin for overcurrent protection without significant power loss.
-
----
-
-## File Structure
-
-```
-Buck-Converter-TPS40200/
-├── schematics/          # KiCad schematic source + PDF export
-├── pcb/                 # KiCad PCB file + Gerber files (ZIP)
-├── simulation/          # LTSpice/TINA-TI simulation files
-├── docs/                # Screenshots, 3D renders, BOM
-│   ├── schematic.png
-│   ├── pcb_layout.png
-│   └── 3d_render.png
-└── README.md
-```
 
 ---
 
