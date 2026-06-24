@@ -116,7 +116,5 @@ Buck-Converter-TPS40200/
 ## Author
 
 **Vineeth S Shastry**
-B.E. Electronics and Communication Engineering — ATME College of Engineering (2026)
-Embedded Systems Intern — L&T Technology Services (LTTS), Mysuru
 
 [![GitHub](https://img.shields.io/badge/GitHub-easy--vin--78-181717?logo=github)](https://github.com/easy-vin-78)
